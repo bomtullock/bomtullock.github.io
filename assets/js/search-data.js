@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-a-post-with-formatting-and-links",
+        },{id: "post-a-student-s-perspective-on-ai-in-education",
         
-          title: "a post with formatting and links",
+          title: "A Student’s Perspective on AI in Education",
         
-        description: "march &amp; april, looking forward to summer",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/formatting-and-links/";
+            window.location.href = "/blog/2025/A-Student's-Perspective-on-AI-in-Education/";
           
         },
       },{id: "books-the-godfather",
@@ -64,9 +64,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-will-this-work-1",
-          title: 'Will this work 1?',
-          description: "test project 1",
+          section: "News",},{id: "projects-3d-heat-sink-analysis",
+          title: '3D Heat Sink Analysis',
+          description: "A custom FEA solver developed in MATLAB to model the heat distribution of a CPU chip upon PC startup.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-will-this-work",
