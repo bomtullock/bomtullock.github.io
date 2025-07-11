@@ -12,10 +12,9 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   All thoughts are my own.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-
+icon: favicon-32x32.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://clubmeister.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
@@ -89,7 +88,7 @@ blog_description: An assortment of things I see fit to blog about
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
-# Pagination
+# Pagination (split blogs into multiple pages)
 pagination:
   enabled: true
 
