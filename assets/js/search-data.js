@@ -18,24 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of my projects.",
+          description: "A growing collection of both my academic and personal projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-bookshelf",
-          title: "Bookshelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
           },
         },{id: "post-a-student-s-perspective-on-ai-in-education",
         
@@ -68,18 +54,35 @@ ninja.data = [{
           title: '3D Heat Sink Analysis',
           description: "A custom FEA solver developed in MATLAB to model the heat distribution of a CPU chip upon PC startup.",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/1_HeatSink/";
+            },},{id: "projects-test2",
+          title: 'test2',
+          description: "test2.",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-will-this-work",
-          title: 'Will this work?',
+            },},{id: "projects-test2",
+          title: 'test2?',
           description: "test project 2?",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_project%20copy/";
+            },},{id: "projects-pi-hole",
+          title: 'Pi-hole',
+          description: "Deploying a Pi-hole on my local network",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_pihole/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%74%68%6F%6D%61%73%6A%61%6D%65%73%62%75%6C%6C%6F%63%6B@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/bomtullock", "_blank");
         },
       },{
         id: 'social-linkedin',
