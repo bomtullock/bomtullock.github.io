@@ -2,11 +2,12 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of my projects.
+description: A growing collection of both my academic and personal projects.
 nav: true
 nav_order: 2
 display_categories: [Academic, Personal]
 horizontal: false
+social: true
 ---
 
 <!-- pages/projects.md -->

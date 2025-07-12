@@ -8,7 +8,7 @@ profile:
   align: right
   image: me.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
+  more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -36,4 +36,4 @@ Another reason for putting this site together is the [Projects](/projects/) sect
 
 Enjoy :) 
 
-
+n.b. this website is a constant WIP
