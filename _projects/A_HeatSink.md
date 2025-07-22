@@ -3,7 +3,7 @@ layout: page
 title: 3D Heat Sink Analysis 
 description: A custom FEA solver developed in MATLAB to model the heat distribution of a CPU chip upon PC startup.
 img: assets/img/HeatSink_Tile.jpg
-importance: 1
+importance: 2
 category: Academic
 #related_publications: false
 social: true 
