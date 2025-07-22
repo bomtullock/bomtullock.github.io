@@ -55,11 +55,26 @@ ninja.data = [{
           description: "A custom FEA solver developed in MATLAB to model the heat distribution of a CPU chip upon PC startup.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/A_HeatSink/";
+            },},{id: "projects-meng-dissertation",
+          title: 'MEng Dissertation',
+          description: "Performance Study of a Cantilevered Piezoelectric Energy Harvester",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/A_MEng_Dissertation/";
             },},{id: "projects-tailplane-wingbox-design",
           title: 'Tailplane Wingbox Design',
           description: "Led a team of 7 in designing, constructing, and testing a light aircraft wingbox",
           section: "Projects",handler: () => {
               window.location.href = "/projects/A_Tailplane/";
+            },},{id: "projects-turbofan-optimisation",
+          title: 'Turbofan Optimisation',
+          description: "Developing and analysing a hybrid-electric propulsion system for a commercial aircraft",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/A_TurboFan/";
+            },},{id: "projects-learjet-25-pitch-control",
+          title: 'Learjet 25 Pitch Control',
+          description: "Developing a linearised state space control system for a Learjet 25",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/LearjetControl/";
             },},{id: "projects-pi-hole",
           title: 'Pi-hole',
           description: "Deploying a Pi-hole on my local network",
