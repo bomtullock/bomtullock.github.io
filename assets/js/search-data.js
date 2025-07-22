@@ -54,22 +54,22 @@ ninja.data = [{
           title: '3D Heat Sink Analysis',
           description: "A custom FEA solver developed in MATLAB to model the heat distribution of a CPU chip upon PC startup.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_HeatSink/";
-            },},{id: "projects-test2",
-          title: 'test2',
-          description: "test2.",
+              window.location.href = "/projects/A_HeatSink/";
+            },},{id: "projects-tailplane-wingbox-design",
+          title: 'Tailplane Wingbox Design',
+          description: "Led a team of 7 in designing, constructing, and testing a light aircraft wingbox",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-test2",
-          title: 'test2?',
-          description: "test project 2?",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project%20copy/";
+              window.location.href = "/projects/A_Tailplane/";
             },},{id: "projects-pi-hole",
           title: 'Pi-hole',
           description: "Deploying a Pi-hole on my local network",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_pihole/";
+              window.location.href = "/projects/P_pihole/";
+            },},{id: "projects-website",
+          title: 'Website',
+          description: "This website!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/P_website/";
             },},{
         id: 'social-email',
         title: 'email',
