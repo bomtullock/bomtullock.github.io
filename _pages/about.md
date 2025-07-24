@@ -28,7 +28,7 @@ Hi, I’m Tom – welcome to my website!
 
 If you're reading this, you’ve come from my CV, thanks for taking the time to dig a little deeper.
 
-I think the idea behind this website is to give you a better sense of who I am beyond a single sheet of A4. I’ve not done anything like this before, and the slightly narcissistic feel of dedicating a website to myself doesn’t exactly come naturally – but I'll give it a go.
+I think the idea behind this website is to give you a better sense of who I am beyond a single sheet of A4. I’ve not done anything like this before, and the slightly narcissistic feel of dedicating a website to myself doesn’t exactly come naturally, but I'll give it a go.
 
 I’ll be writing [Blog](/blog/) posts (when I have time), covering everything from things I find interesting to things I’ve done and think are worth saying a few words about. Hopefully, through reading those, you’ll start to build a better picture of who I am and how I think.
 
@@ -36,4 +36,4 @@ Another reason for putting this site together is the [Projects](/projects/) sect
 
 Enjoy :) 
 
-n.b. this website is a constant WIP
+n.b. this website is a WIP
