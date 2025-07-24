@@ -50,14 +50,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-3d-heat-sink-analysis",
+          section: "News",},{id: "projects-ema-control-system",
+          title: 'EMA Control System',
+          description: "Control System Design for an Electromechanical Actuator",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/A_EMA_Control/";
+            },},{id: "projects-3d-heat-sink-analysis",
           title: '3D Heat Sink Analysis',
           description: "A custom FEA solver developed in MATLAB to model the heat distribution of a CPU chip upon PC startup.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/A_HeatSink/";
-            },},{id: "projects-meng-dissertation",
-          title: 'MEng Dissertation',
-          description: "Performance Study of a Cantilevered Piezoelectric Energy Harvester",
+            },},{id: "projects-m-eng-dissertation",
+          title: 'M.Eng. Dissertation',
+          description: "Performance Study of a Cantilevered Piezoelectric Energy Harvester.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/A_MEng_Dissertation/";
             },},{id: "projects-tailplane-wingbox-design",
@@ -80,9 +85,9 @@ ninja.data = [{
           description: "Deploying a Pi-hole on my local network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/P_pihole/";
-            },},{id: "projects-website",
-          title: 'Website',
-          description: "This website!",
+            },},{id: "projects-my-website",
+          title: 'My Website',
+          description: "A static portfolio site built with Jekyll and Docker, deployed via GitHub Pages using the al-folio theme.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/P_website/";
             },},{
