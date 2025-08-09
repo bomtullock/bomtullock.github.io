@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Tailplane Wingbox Design 
-description: Led a team of 7 in designing, constructing, and testing a light aircraft wingbox
+description: Led a team of 7 in designing, constructing, and testing a light aircraft wingbox.
 img: assets/img/kyam.jpg
 importance: 3
 category: Academic
 #related_publications: true
 social: true 
+skills: [MATLAB, CATIA]
 ---
 
 <a href="{{ 'assets/pdf/AERO3465_Report.pdf' | relative_url }}" 

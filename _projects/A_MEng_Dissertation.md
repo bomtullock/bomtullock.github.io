@@ -1,12 +1,13 @@
 ---
 layout: page
-title: M.Eng. Dissertation
+title: MEng Dissertation
 description: Performance Study of a Cantilevered Piezoelectric Energy Harvester.
 img: assets/img/piezoelectric.png
 importance: 1
 category: Academic
 #related_publications: true
 social: true 
+skills: [MATLAB, COMSOL]
 ---
 
 <a href="{{ 'assets/pdf/Final_Report.pdf' | relative_url }}" 

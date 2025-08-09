@@ -7,6 +7,7 @@ importance: 2
 category: Academic
 #related_publications: false
 social: true 
+skills: [MATLAB, ANSYS]
 ---
 
 <a href="{{ '/assets/pdf/Group17_Report.pdf' | relative_url }}" 

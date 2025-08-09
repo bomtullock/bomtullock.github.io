@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Turbofan Optimisation
-description: Developing and analysing a hybrid-electric propulsion system for a commercial aircraft
+description: Developing and analysing a hybrid-electric propulsion system for a commercial aircraft.
 img: assets/img/Ultrafan.jpg
 importance: 4
 category: Academic
 #related_publications: true
 social: true 
+skills: [GasTurb]
 ---
 
 <a href="{{ 'assets/pdf/AERO3261_Group20_Assignment_2.pdf' | relative_url }}" 
