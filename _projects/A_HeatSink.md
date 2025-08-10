@@ -19,7 +19,9 @@ skills: [MATLAB, ANSYS]
   <i class="fa-solid fa-arrow-up-right-from-square"></i>
 </a>
 
-This project is my favourite to date. I think the autotelic nature of it is something I find deeply satisfying. Taking an engineering problem such as *'How can we model the heat distribution of a heatsink'*, and then developing a finite element model from first principles and implementing that into working code to solve the problem I think is very cool.
+This project is my favourite to date. I think the autotelic nature of it is something I find deeply satisfying. Tackling an engineering challenge such as ‘How can we model the heat distribution of a heatsink?’ and then developing a finite element model from first principles, ultimately implementing it into working code to solve the problem was extremely rewarding.
+
+
 
 
 
