@@ -8,7 +8,7 @@ profile:
   align: right
   image: me_vietnam_edit.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Captured during a 4-day motorbike tour in Hà Giang, Vietnam.  
+  more_info: Hà Giang, Vietnam.  
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
