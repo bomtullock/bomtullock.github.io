@@ -14,5 +14,5 @@ social: true
 ---
 ***This trip took place in June 2024***
 
-### 
+***Blog coming soon...***
 
