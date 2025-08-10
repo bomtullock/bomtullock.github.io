@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tailplane Wingbox Design 
+title: Tailplane Wingbox Design, Build and Test
 description: Led a team of 7 in designing, constructing, and testing a light aircraft wingbox.
 img: assets/img/kyam.jpg
 importance: 3

@@ -10,6 +10,15 @@ horizontal: false
 social: true
 ---
 
+<a href="{{ 'https://github.com/bomtullock?tab=repositories' | relative_url }}" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   style="display: inline-flex; align-items: center; gap: 0.4em;">
+  <i class="fa-brands fa-github fa-2x"></i>
+  <span>Project Code</span>
+  <i class="fa-solid fa-arrow-up-right-from-square"></i>
+</a>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
