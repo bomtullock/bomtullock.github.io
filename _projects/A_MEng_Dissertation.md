@@ -7,7 +7,7 @@ importance: 1
 category: Academic
 #related_publications: true
 social: true 
-skills: [MATLAB, COMSOL]
+skills: [MATLAB, COMSOL, MS Project]
 ---
 
 <a href="{{ 'assets/pdf/Final_Report.pdf' | relative_url }}" 
