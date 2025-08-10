@@ -6,8 +6,8 @@ subtitle:
 
 profile:
   align: right
-  image: me.jpg
-  image_circular: true # crops the image to make it circular
+  image: me_vietnam_edit.jpg
+  image_circular: false # crops the image to make it circular
   more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -36,4 +36,4 @@ Another reason for putting this site together is the [Projects](/projects/) sect
 
 Enjoy :) 
 
-n.b. this website is a WIP. test here
+n.b. this website is a WIP.
