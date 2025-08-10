@@ -76,8 +76,8 @@ ninja.data = [{
           description: "Performance Study of a Cantilevered Piezoelectric Energy Harvester.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/A_MEng_Dissertation/";
-            },},{id: "projects-tailplane-wingbox-design",
-          title: 'Tailplane Wingbox Design',
+            },},{id: "projects-tailplane-wingbox-design-build-and-test",
+          title: 'Tailplane Wingbox Design, Build and Test',
           description: "Led a team of 7 in designing, constructing, and testing a light aircraft wingbox.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/A_Tailplane/";
