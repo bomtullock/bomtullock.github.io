@@ -10,7 +10,7 @@ social: true
 skills: [MATLAB]
 ---
 
-<a href="{{ 'assets/pdf/Scramjet_Optmisation.pdf' | relative_url }}" 
+<a href="{{ 'assets/pdf/Scramjet_Optimisation.pdf' | relative_url }}" 
    target="_blank" 
    rel="noopener noreferrer" 
    style="display: inline-flex; align-items: center; gap: 0.4em;">
