@@ -76,6 +76,16 @@ ninja.data = [{
           description: "Performance Study of a Cantilevered Piezoelectric Energy Harvester.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/A_MEng_Dissertation/";
+            },},{id: "projects-scramjet-engine-design-amp-optimisation",
+          title: 'Scramjet Engine Design &amp;amp; Optimisation',
+          description: "A one dimensional analysis of the performance of a scramjet, aiming to optmise the specific impulse through various methods.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/A_ScramJet/";
+            },},{id: "projects-student-management-system",
+          title: 'Student Management System',
+          description: "A student management system developed in Python.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/A_StudentManagement/";
             },},{id: "projects-tailplane-wingbox-design-build-and-test",
           title: 'Tailplane Wingbox Design, Build and Test',
           description: "Led a team of 7 in designing, constructing, and testing a light aircraft wingbox.",
