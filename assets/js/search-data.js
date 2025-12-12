@@ -27,7 +27,7 @@ ninja.data = [{
         
           title: "Sunda Islands Motorbike Tour",
         
-        description: "Louis and I set out to rent bikes and ride across the Sunda Islands over the course of a month. An unexpected volcanic eruption at the start of our journey, sent us on a detour that transformed the trip into something unforgettable.",
+        description: "Louis and I set out to rent bikes and ride across the Sunda Islands over the course of a month. An unexpected volcanic eruption at the start of our journey, sent us on a detour that transformed the trip into something money can&#39;t buy.",
         section: "Posts",
         handler: () => {
           
