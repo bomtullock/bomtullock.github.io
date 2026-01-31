@@ -2,7 +2,7 @@
 layout: page
 title: MEng Dissertation
 description: Performance Study of a Cantilevered Piezoelectric Energy Harvester.
-img: assets/img/piezoelectric.png
+img: assets/img/Gemini_Piezo.png
 importance: 1
 category: Academic
 #related_publications: true
