@@ -2,7 +2,7 @@
 layout: page
 title: EMA Control System
 description: Control System Design for an Electromechanical Actuator.
-img: assets/img/Gemini_Piezo.png
+img: assets/img/EMA.png
 importance: 6
 category: Academic
 #related_publications: true
