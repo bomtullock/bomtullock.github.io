@@ -19,9 +19,14 @@ skills: [MATLAB, ANSYS]
   <i class="fa-solid fa-arrow-up-right-from-square"></i>
 </a>
 
-This project is my favourite to date. I think the autotelic nature of it is something I find deeply satisfying. Tackling an engineering challenge such as ‘How can we model the heat distribution of a heatsink?’ and then developing a finite element model from first principles, ultimately implementing it into working code to solve the problem was extremely rewarding.
+This project is my favourite to date. Its autotelic nature was something I found deeply satisfying.
 
+The question ‘How can we model the heat distribution of a heatsink?’ is an *actual* engineering challenge. It is easy to see how the solution is genuinely useful, important, and tangible. I like that.   
 
+By applying the collective understanding of how the physical world works, we developed a mathematical model of the heat flow in a heatsink during PC startup. The model was implemented into code, and the behaviour was simulated.
 
+To me, this is the crux of what engineering is about. Harnessing the rules of physics to understand future behaviour, and using that to inform efficient solutions.
+
+Our results were benchmarked against industry standard software (ANSYS), and we fell within ±1%.  
 
 

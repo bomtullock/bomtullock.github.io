@@ -16,6 +16,6 @@ related_publications: true
 
 ### Introduction 
 
-As a recent university graduate, I started my degree when the vast majority of students, including myself, didn't know what AI or a Large Language Model (LLM) was. Four years later, half your coursemates probably pay for a ChatGPT subscription and the other half have access to one. I’ve seen first-hand just how rapidly AI has found its way into university life and I think that puts me in a somewhat unique position to share some honest thoughts on the opportunities and challenges it brings for students today. {% cite kosmyna2025brainchatgptaccumulationcognitive %}
+As a recent university graduate, I started my degree when the vast majority of students, including myself, didn't know what AI or a Large Language Model (LLM) was. Four years later, half your coursemates probably pay for a ChatGPT subscription and the other half have access to one. I’ve seen first-hand just how rapidly AI has found its way into university life, and I think that puts me in a somewhat unique position to share some honest thoughts on the opportunities and challenges it brings for students today. {% cite kosmyna2025brainchatgptaccumulationcognitive %}
 
 ***Blog coming soon...***
